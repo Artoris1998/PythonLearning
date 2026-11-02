@@ -30,10 +30,10 @@ PythonLearning/
 ├── README.md
 │
 ├── Phase-01-Python-basics/
-│   ├── Python_Day01.py
-│   ├── Python_Day01.ipynb
-│   ├── Learning_Log.md
-│   └── Phase01_Summary.md
+│   ├── Colab_Learning_Day01.ipynb
+│   ├── Colab_Learning_Day02.ipynb
+│   ├── Colab_Learning_Day03.ipynb
+│   └── PythonLearning.md
 │
 └── (未來學習階段)
 ```
@@ -46,18 +46,10 @@ PythonLearning/
 -Day 02｜2026/11/01
  今天學到：變數與資料型態
  練習內容：認識 Python 基本資料型態與變數操作，完成超商商品價格計算及結帳練習
--今天學到：算術運算與資料型態轉換
- 1. 今天學到
-- 基本運算：+、-、*、/
-- 整數除法：//
-- 取餘數：%
-- 次方：**
-- 型態轉換：int()、float()、str()
-- 查看型態：type()
-2. 今天搞錯的地方
-1. ** 是次方，*** 是錯誤語法。
-2. "50" 是文字，50 是整數。
-3. / 是一般除法，// 是整數除法，% 是取餘數。
+ 今天學到：算術運算與資料型態轉換
+ 練習內容：基本運算：+、-、*、/、整數除法：//、取餘數：%、次方：**
+ 今天搞錯的地方： 1. ** 是次方，*** 是錯誤語法。 2."50" 是文字，50 是整數。 3. / 是一般除法，// 是整數除法，% 是取餘數。
+
 ## 🛠️ 使用工具
 
 - Google Colab
