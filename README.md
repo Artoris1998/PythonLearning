@@ -2,7 +2,9 @@ PythonLearning 🐍
 我的 Python 學習紀錄庫。
 
 這個 Repository 用來記錄 Python 的學習過程、程式練習、錯誤修正。
-Phase-01:
+
+### Phase-01:
+
 ### Day 01｜2026/10/31
 - **今天學到：**
   - 使用 'print()' 顯示文字。
