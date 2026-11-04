@@ -18,15 +18,16 @@
 | Day 02 | 變數與資料型態 | ✅ 已完成 |
 | Day 03 | 算術運算與型態轉換 | ✅ 已完成 |
 | Day 04 | 比較運算子與條件判斷 | ✅ 已完成 |
-| Day 05 | 待安排 | ⬜ 尚未開始 |
+| Day 05 | Python 迴圈（Loop） | ✅ 已完成 |
 
 ## 📁 資料夾內容
 
-- `Colab_Learning_Day01.ipynb`：Day 01 課程與練習
-- `Colab_Learning_Day02.ipynb`：Day 02 課程與練習
-- `Colab_Learning_Day03.ipynb`：Day 03 課程與練習
-- `Colab_Learning_Day04.ipynb`：Day 04 課程與練習
-- `Learning-Notes.md`：每日學習紀錄與錯誤整理
+- 'Colab_Learning_Day01.ipynb'：Day 01 課程與練習
+- 'Colab_Learning_Day02.ipynb'：Day 02 課程與練習
+- 'Colab_Learning_Day03.ipynb'：Day 03 課程與練習
+- 'Colab_Learning_Day04.ipynb'：Day 04 課程與練習
+- 'Colab_Learning_Day05.ipynb'：Day 05 課程與練習
+- 'Learning-Notes.md'：每日學習紀錄與錯誤整理
 
 ## 🛠️ 使用工具
 
