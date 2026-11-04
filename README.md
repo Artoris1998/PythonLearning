@@ -34,6 +34,7 @@ PythonLearning/
 │   ├── Colab_Learning_Day02.ipynb
 │   ├── Colab_Learning_Day03.ipynb
 │   ├── Colab_Learning_Day04.ipynb
+│   ├── Colab_Learning_Day05.ipynb
 │   └── PythonLearning.md
 │
 └── (未來學習階段)
@@ -47,6 +48,8 @@ Day 02/2026.11.01：變數與資料型態
 Day 03/2026.11.02：算術運算與型態轉換
 
 Day 04/2026.11.03：比較運算子與條件判斷（if、elif、else）
+
+Day 05/2026.11.04：Python 迴圈（Loop）
 
 
 ## 🛠️ 使用工具
