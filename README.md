@@ -35,6 +35,7 @@ PythonLearning/
 │   ├── Colab_Learning_Day03.ipynb
 │   ├── Colab_Learning_Day04.ipynb
 │   ├── Colab_Learning_Day05.ipynb
+│   ├── Colab_Learning_Day06.ipynb
 │   └── PythonLearning.md
 │
 └── (未來學習階段)
@@ -51,7 +52,7 @@ Day 04/2026.11.03：比較運算子與條件判斷（if、elif、else）
 
 Day 05/2026.11.04：Python 迴圈（Loop）
 
-
+Day 06/2026.11.05：while 迴圈與 List 基礎應用
 ## 🛠️ 使用工具
 
 - Google Colab
