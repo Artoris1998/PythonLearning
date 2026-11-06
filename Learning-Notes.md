@@ -103,4 +103,37 @@ PythonLearning 🐍
       while number < 5:
       不能寫成 number <= 5，否則會嘗試讀取不存在的 products[5]。-
 ### Day 06｜2026/11/05
-
+- **今天學到：**
+  - 今天學習如何控制迴圈的執行流程：
+    - break：直接結束整個迴圈。
+    - continue：跳過目前這一次迴圈，繼續下一次。
+    - len()：取得 List 的資料數量。
+    - range() 搭配 List 索引。
+    - 將 for、if、break、continue 組合使用
+  - len()：取得 List 長度
+    - len(products) 會取得 List 裡面的資料數量。
+    - 搭配 range()
+      - 原理：
+        - len(products) 取得資料數量。
+        - range(5) 產生 0、1、2、3、4。
+        - products[i] 根據索引取得對應資料。
+- **注意事項**
+  - 混淆 break 和 continue
+  - 正確觀念：
+    - break：整個迴圈結束。
+    - continue：只跳過目前這次。
+  - 縮排
+    - Python 使用縮排判斷程式區塊，continue 必須放在正確的條件區塊內。
+    - continue 後面的程式碼不會執行
+    -例如：
+    for i in range(1, 6):
+        if i == 3:
+           continue
+    print(i)
+  當 i 等於 3 時，print(i) 會被跳過。
+  - List 索引從 0 開始
+    - 不要把資料數量和最後一個索引搞混。
+      例如 List 有 3 筆資料，索引是 0、1、2，而不是 1、2、3。
+  - range() 不包含結束值
+  - 例如：range(5) ， 產生的是： 0, 1, 2, 3, 4， 不包含 5。
+  
