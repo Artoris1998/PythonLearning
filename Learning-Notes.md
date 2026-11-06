@@ -125,7 +125,7 @@ PythonLearning 🐍
   - 縮排
     - Python 使用縮排判斷程式區塊，continue 必須放在正確的條件區塊內。
     - continue 後面的程式碼不會執行
-    -例如：
+    - 例如：
     for i in range(1, 6):
         if i == 3:
            continue
