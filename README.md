@@ -37,6 +37,7 @@ PythonLearning/
 │   ├── Colab_Learning_Day05.ipynb
 │   ├── Colab_Learning_Day06.ipynb
 │   ├── Colab_Learning_Day07.ipynb
+│   ├── Colab_Learning_Day08.ipynb
 │   └── PythonLearning.md
 │
 └── (未來學習階段)
