@@ -56,6 +56,9 @@ Day 05/2026.11.04： Python 迴圈（Loop）
 Day 06/2026.11.05： while 迴圈與 List 基礎應用
 
 Day 07/2026.11.06： break 與 continue
+
+Day 08/2026.11.07： 巢狀迴圈
+
 ## 🛠️ 使用工具
 
 - Google Colab
