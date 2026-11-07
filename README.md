@@ -21,6 +21,7 @@
 | Day 05 | Python 迴圈（Loop） | ✅ 已完成 |
 | Day 06 | while 迴圈與 List 基礎應用 | ✅ 已完成 |
 | Day 07 | break 與 continue | ✅ 已完成 |
+| Day 08 | 巢狀迴圈 | ✅ 已完成 |
 
 ## 📁 資料夾內容
 
@@ -31,6 +32,7 @@
 - 'Colab_Learning_Day05.ipynb'：Day 05 課程與練習
 - 'Colab_Learning_Day06.ipynb'：Day 06 課程與練習
 - 'Colab_Learning_Day07.ipynb'：Day 07 課程與練習
+- 'Colab_Learning_Day08.ipynb'：Day 08 課程與練習
 - 'Learning-Notes.md'：每日學習紀錄與錯誤整理
 
 ## 🛠️ 使用工具
