@@ -195,3 +195,20 @@ PythonLearning 🐍
       [-3:]	取出最後三個
       [::2]	每隔 2 格取一個
       [::-1]	從後往前取出，達到反轉效果
+- **注意事項**
+  - remove() 和 pop() 的差別-
+    remove()	根據元素內容刪除	        fruits.remove("香蕉")
+    pop()	    根據索引位置刪除	        fruits.pop(1)
+    pop()	    沒指定索引時刪除最後一個	fruits.pop()
+  - append() 和 insert() 的差別
+    append()	永遠新增在最後面
+    insert()	可以指定插入位置
+  - sort() 和 reverse() 的差別
+    sort()：按照大小排序
+    reverse()：直接反轉原本順序
+  - count() 和 index() 的差別
+    count()	  計算出現幾次          fruits.count("香蕉")
+    index()	  找出第一次出現的位置	 fruits.index("香蕉")
+  - List 索引從 0 開始
+    容易犯錯：以為第一個元素的索引是 1。
+  - 切片（Slicing）的結束位置不包含
