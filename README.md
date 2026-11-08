@@ -38,6 +38,7 @@ PythonLearning/
 │   ├── Colab_Learning_Day06.ipynb
 │   ├── Colab_Learning_Day07.ipynb
 │   ├── Colab_Learning_Day08.ipynb
+│   ├── Colab_Learning_Day09.ipynb
 │   └── PythonLearning.md
 │
 └── (未來學習階段)
@@ -59,6 +60,8 @@ Day 06/2026.11.05： while 迴圈與 List 基礎應用
 Day 07/2026.11.06： break 與 continue
 
 Day 08/2026.11.07： 巢狀迴圈
+
+Day 09/2026.11.08： Python List
 
 ## 🛠️ 使用工具
 
