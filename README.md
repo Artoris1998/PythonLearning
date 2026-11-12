@@ -40,6 +40,7 @@ PythonLearning/
 │   ├── Colab_Learning_Day08.ipynb
 │   ├── Colab_Learning_Day09.ipynb
 │   ├── Colab_Learning_Day10.ipynb
+│   ├── Colab_Learning_Day11.ipynb
 │   └── PythonLearning.md
 │
 └── (未來學習階段)
@@ -65,6 +66,8 @@ Day 08/2026.11.07： 巢狀迴圈
 Day 09/2026.11.08： Python List
 
 Day 10/2026.11.10： Python Tuple（元組）
+
+Day 10/2026.11.12： Python Dictionary（字典）
 
 ## 🛠️ 使用工具
 
