@@ -234,3 +234,37 @@ PythonLearning 🐍
     - 使用 index() 可以查詢指定元素第一次出現的位置。
 - **注意事項**
   - Tuple 使用 ()，且無法直接修改、新增或刪除其中的元素。
+### Day 11｜2026/11/12
+- **今天學到：**
+  - Dictionary（字典） ： 是一種可以儲存多筆資料的資料型態。它使用 Key（鍵）和 Value（值） 配對的方式儲存資料。-
+  - Key	： 資料的名稱或索引標籤	"name"
+  - Value	： Key 對應的資料內容
+  - 使用 Key 取得 Value ： Dictionary 不像 List 使用數字索引，而是使用 Key 取得對應的 Value。
+  - 修改 Dictionary 資料
+    - 如果 Key 已經存在，可以直接指定新的 Value  (修改資料不需要重新建立整個 Dictionary。)
+  - 如果指定的 Key 不存在，Python 就會新增一筆資料。
+  - 使用 del 可以刪除指定的 Key 和 Value。 (如果刪除不存在的 Key，Python 會產生 KeyError。)
+  - 使用 in 可以檢查 Dictionary 裡面是否存在指定的 Key。
+  - 使用 for 可以逐一讀取 Dictionary 裡面的 Key。
+    - 觀念拆解：
+      - for key in person:：逐一取得 Dictionary 的 Key。
+      - key：暫時儲存目前取得的 Key。
+      - print(key)：印出目前的 Key。
+  - 如果想同時取得 Key 和 Value，可以使用 items()。
+    觀念拆解：  語法	           功能
+              items()	    取得每一組 Key 和 Value
+               key	          儲存 Key
+              value	         儲存 Value
+         print(key, value)	 同時印出兩者
+    注意：key 和 value 都是變數名稱，可以自行命名。-
+- **重要觀念：**
+  - Dictionary 使用大括號 {} 建立。
+  - Key 和 Value 之間使用冒號 :。
+  - 每一組資料之間使用逗號 , 。
+  - Key 必須唯一，Value 可以重複。
+  - Dictionary 使用 in 時，預設檢查的是 Key，不是 Value。
+- **注意事項：**
+  - List 和 Dictionary 取得資料的方式不同 ： List 使用索引值，Dictionary 使用 Key。
+  - 修改和新增使用相同語法 ： Key 存在：修改資料 ; Key 不存在：新增資料。
+  - in 檢查的是 Key ， Key 的拼字必須完全一致
+  - for 和 items() 的差別 ： for 只取得Key ; items() 同時取得 Key 和 Value
