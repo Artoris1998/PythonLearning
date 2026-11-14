@@ -268,3 +268,35 @@ PythonLearning 🐍
   - 修改和新增使用相同語法 ： Key 存在：修改資料 ; Key 不存在：新增資料。
   - in 檢查的是 Key ， Key 的拼字必須完全一致
   - for 和 items() 的差別 ： for 只取得Key ; items() 同時取得 Key 和 Value
+### Day 12｜2026/11/14
+- **今天學到：**
+  - Dictionary 基本概念複習
+    Dictionary 使用 {} 建立，資料以 Key（鍵）和 Value（值）的形式儲存。
+  - get()｜安全取得資料
+    使用 Key 查詢 Value。
+  - keys()｜取得所有 Key
+  - values()｜取得所有 Value
+  - update()｜新增或修改資料
+    可以一次新增或修改多筆資料。
+  - pop()｜刪除指定資料並回傳 Value
+  - 與 del 的差異：               功能
+    del person["city"]	   刪除資料，不回傳 Value
+    person.pop("city")	   刪除資料，並回傳 Value
+  - Dictionary 搭配 for 迴圈
+- **重要觀念：**
+  - get()：
+    Key 存在：回傳對應的 Value。
+    Key 不存在：預設回傳 None。
+    可以設定預設值，例如 get("grade", 0)。
+  - update()：
+    Key 已存在：修改 Value。
+    Key 不存在：新增 Key 和 Value。
+    可以一次處理多筆資料。
+  - pop()：
+    刪除指定的 Key 和 Value。
+    回傳被刪除的 Value。
+    可以將回傳值存入變數。
+  - clear()：
+    刪除 Dictionary 裡所有資料。
+    Dictionary 本身仍然存在。
+    清空後會變成空字典 {}。
