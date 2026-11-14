@@ -41,6 +41,7 @@ PythonLearning/
 │   ├── Colab_Learning_Day09.ipynb
 │   ├── Colab_Learning_Day10.ipynb
 │   ├── Colab_Learning_Day11.ipynb
+│   ├── Colab_Learning_Day12.ipynb
 │   └── PythonLearning.md
 │
 └── (未來學習階段)
@@ -67,7 +68,9 @@ Day 09/2026.11.08： Python List
 
 Day 10/2026.11.10： Python Tuple（元組）
 
-Day 10/2026.11.12： Python Dictionary（字典）
+Day 11/2026.11.12： Python Dictionary（字典）
+
+Day 12/2026.11.14： Python Dictionary（字典）
 
 ## 🛠️ 使用工具
 
