@@ -24,7 +24,8 @@
 | Day 08 | 巢狀迴圈 | ✅ 已完成 |
 | Day 09 | Python List | ✅ 已完成 |
 | Day 10 | Python Tuple（元組） | ✅ 已完成 |
-| Day 11 |Python Dictionary（字典）| ✅ 已完成 |
+| Day 11 | Python Dictionary（字典）| ✅ 已完成 |
+| Day 12 | Python Dictionary 進階操作| ✅ 已完成 |
 
 ## 📁 資料夾內容
 
@@ -38,7 +39,8 @@
 - 'Colab_Learning_Day08.ipynb'：Day 08 課程與練習
 - 'Colab_Learning_Day09.ipynb'：Day 09 課程與練習
 - 'Colab_Learning_Day10.ipynb'：Day 10 課程與練習
-- 'Colab_Learning_Day10.ipynb'：Day 11 課程與練習
+- 'Colab_Learning_Day11.ipynb'：Day 11 課程與練習
+- 'Colab_Learning_Day12.ipynb'：Day 12 課程與練習
 - 'Learning-Notes.md'：每日學習紀錄與錯誤整理
 
 ## 🛠️ 使用工具
