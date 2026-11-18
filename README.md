@@ -71,7 +71,7 @@ Day 10/2026.11.10： Python Tuple（元組）
 
 Day 11/2026.11.12： Python Dictionary（字典）
 
-Day 12/2026.11.14： Python Dictionary（字典）
+Day 12/2026.11.14： Python Dictionary 進階操作
 
 Day 13/2026.11.18： Python 巢狀 Dictionary（Nested Dictionary）
 
