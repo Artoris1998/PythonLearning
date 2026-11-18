@@ -300,3 +300,28 @@ PythonLearning 🐍
     刪除 Dictionary 裡所有資料。
     Dictionary 本身仍然存在。
     清空後會變成空字典 {}。
+### Day 13｜2026/11/18
+- **今天學到：**
+  - 巢狀 Dictionary： Dictionary 裡面還可以放另一個 Dictionary，這種結構就叫做巢狀 Dictionary。
+  - 讀取巢狀 Dictionary： 使用多層 []，依照資料所在的位置逐層讀取。
+  - 修改巢狀 Dictionary： 修改方式與一般 Dictionary 相同，只要指定完整的 Key 路徑即可
+  - 新增巢狀 Dictionary ： 資料新增資料的方式與修改相同。
+  - 使用 for 迴圈遍歷巢狀 Dictionary： 使用 items() 可以同時取得 Key 和 Value。
+  - 三層 Dictionary： 當資料需要更細的分類時，可以繼續往內建立 Dictionary
+  - 三層 Dictionary 搭配 for 迴圈
+- **重要觀念：**
+  - 使用多層 []，依照資料所在的位置逐層讀取。
+    - 第一層 []：取得外層 Dictionary 的資料。
+    - 第二層 []：取得內層 Dictionary 的資料。
+    - 如果有更多層，就繼續往內存取。
+  - 修改巢狀 Dictionary
+    - Key 已經存在時，指定新 Value 就會修改原本的資料。
+    - Key 已存在：修改 Value。
+    - Key 不存在：新增 Key 和 Value。
+  - for 迴圈遍歷巢狀 Dictionary
+    - key：外層的 Key，例如 "student1"。
+    - value：外層 Key 對應的內層 Dictionary。
+    - value["name"]：取得內層的姓名。
+    - value["age"]：取得內層的年齡。
+  - 三層 Dictionary
+    - 依照資料結構，一層一層往內找到目標 Key。
