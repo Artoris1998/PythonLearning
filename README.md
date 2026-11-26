@@ -44,6 +44,7 @@ PythonLearning/
 │   ├── Colab_Learning_Day12.ipynb
 │   ├── Colab_Learning_Day13.ipynb
 │   ├── Colab_Learning_Day14.ipynb
+│   ├── Colab_Learning_Day15.ipynb
 │   └── PythonLearning.md
 │
 └── (未來學習階段)
@@ -77,6 +78,8 @@ Day 12/2026.11.14： Python Dictionary 進階操作
 Day 13/2026.11.18： Python 巢狀 Dictionary（Nested Dictionary）
 
 Day 14/2026.11.25： Python Functions（函式）
+
+Day 15/2026.11.26： Python Modules（模組）
 
 ## 🛠️ 使用工具
 
