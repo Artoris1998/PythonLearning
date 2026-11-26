@@ -28,6 +28,7 @@
 | Day 12 | Python Dictionary 進階操作| ✅ 已完成 |
 | Day 13 | Python 巢狀 Dictionary（Nested Dictionary）| ✅ 已完成 |
 | Day 14 | Python Functions（函式）| ✅ 已完成 |
+| Day 15 | Python Modules（模組）| ✅ 已完成 |
 ## 📁 資料夾內容
 
 - 'Colab_Learning_Day01.ipynb'：Day 01 課程與練習
@@ -44,6 +45,7 @@
 - 'Colab_Learning_Day12.ipynb'：Day 12 課程與練習
 - 'Colab_Learning_Day13.ipynb'：Day 13 課程與練習
 - 'Colab_Learning_Day14.ipynb'：Day 14 課程與練習
+- 'Colab_Learning_Day15.ipynb'：Day 15 課程與練習
 - 'Learning-Notes.md'：每日學習紀錄與錯誤整理
 
 ## 🛠️ 使用工具
