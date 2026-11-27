@@ -368,7 +368,7 @@ PythonLearning 🐍
     - 忘記預設參數的用途	                       - 沒有提供引數時才使用預設值
     - 誤以為區域變數能在函式外使用	               - 區域變數通常只能在函式內使用
     - 忘記縮排	                                 - if、else、函式內容都要正確縮排
-### Day 14｜2026/11/25
+### Day 15｜2026/11/26
 - **今天學到：**
   - Module（模組）： Module 就像一個工具箱，裡面放著別人已經寫好的程式功能，我們可以直接匯入使用，不必自己重新編寫。
     - 使用模組的好處：
@@ -405,3 +405,39 @@ PythonLearning 🐍
     - print(sqrt(81))
     - print(ceil(6.2))
     - 只匯入需要的功能，使用時不必加上 math.。
+### Day 16｜2026/11/27
+- **今天學到：**
+  - 匯入 datetime 模組： 使用 import datetime 匯入日期與時間模組。
+  - 取得目前日期與時間：datetime.datetime.now()，取得目前的日期和時間。
+  - 取得今天日期：datetime.date.today()，只取得目前日期，不包含時間。
+  - 取得年月日：.year、.month、.day，使用屬性取得日期中的年、月、日。
+  - 取得時分秒：.hour、.minute、.second，使用 datetime.datetime.now() 取得時間，再透過屬性讀取。
+  - 日期格式化：strftime()，將日期或時間物件轉換成指定格式的字串。
+  - %Y	四位數年份
+  - %y	兩位數年份
+  - %m	月份
+  - %d	日期
+  - %H	24 小時制
+  - %M	分鐘
+  - %S	秒數
+  - 確認資料型態：type()，strftime() 轉換後的結果是字串 str。
+  - 字串轉換成日期：strptime()，strptime() 可以將字串轉換成日期時間物件。(如果原始字串沒有提供時間，預設會使用 00:00:00。)
+  - 日期加減運算：timedelta()，timedelta() 可以計算日期的增加或減少。
+  - days	天數
+  - weeks	週數
+  - hours	小時
+  - minutes	分鐘
+  - seconds	秒數
+  - 計算兩個日期的差距：.days，兩個日期相減，可以取得 timedelta 物件，再使用 .days 取得整數天數。
+  - 判斷星期幾：weekday()，使用 weekday() 取得星期編號。
+  - 判斷星期幾：isoweekday()，另一種取得星期編號的方法。
+- **注意事項：**
+  - datetime.datetime 和 datetime.date 不一樣
+    - datetime.datetime.now()：取得日期與時間。
+    - datetime.date.today()：只取得日期。
+  - strftime() 和 strptime() 不要搞混
+    - strftime()	日期轉字串	日期 → 字串
+    - strptime()	字串轉日期時間	字串 → 日期時間
+  - %Y 和 %y 不一樣
+    - %Y：四位數年份，例如 2026。
+    - %y：兩位數年份，例如 26。
